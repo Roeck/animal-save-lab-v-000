@@ -3,7 +3,7 @@ html {
 }
 
 #ostrich {
-  position: relative;
+  position: absolute;
   top: 50px;
   right: 0;
 }
